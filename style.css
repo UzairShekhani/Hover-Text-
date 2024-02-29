@@ -8,4 +8,15 @@ body{
 }
 #title{
     color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 42px;
+    cursor: default;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+.glow{
+    color: yellow;
+    text-shadow: 0 0 8px #fff;
 }
